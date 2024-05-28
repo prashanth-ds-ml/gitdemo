@@ -24,4 +24,13 @@ Practicing Git and Github
 - `git status` : shows us the status of the repo
 - `ls -a` inside the repo gives hidden files
 - `git add <-file name->` adds new or changed files in your working directory to the git staging area
+- `git commit -m "some message"` it is the record the message about the changes we have done
+- `git push origin main` upload local repo content to remote repo
+- `git init` used to create a new git repo
+- `git branch` to check in which branch we are in
+- `git checkout <-branch name->` to navigate between branches
+- `git checkout -b <-new branch name->` to create new branch
+- `git branch -d <-branch name->` to delete branch
+- `git diff <-branch name->` to compare commits , branches, files and more
+- `git merge <-branch name->` to merge 2 branches
 - Author: Katakam Prashanth
