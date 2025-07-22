@@ -185,13 +185,3 @@ With this setup:
 **Author**: [Katakam Prashanth](https://github.com/prashanth-ds-ml)
 
 ```
-
----
-
-Let me know if you'd like to add:
-- GitHub Desktop usage
-- Pull request workflow
-- GitHub Actions intro
-
-I can also help you publish this to GitHub Pages or customize it with badges and visuals.
-```
