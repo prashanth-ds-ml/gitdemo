@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Git & GitHub Practice: Multi-Account Setup & Workflow
 
 This repository is used to practice essential Git and GitHub commands, understand version control workflows, and manage multiple GitHub accounts from the same machine using SSH.
